@@ -1,0 +1,2 @@
+# paddle_PALM_location_7_3th
+飞桨常规赛：PALM眼底彩照中黄斑中央凹定位-7月第3名方案
